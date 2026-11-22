@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sunday Reset</title>
+    <link rel="stylesheet" href="./css/scratchStyles.css">
+</head>
+
+<body>
+    <div class="">
+        <img src="https://newsroom.churchofjesuschrist.org/media/orig/Gilbert_Temple_Sunset1.jpg" height= 200px; alt="Gilbert_Temple_Sunset1">
+        <span>
+            <a href="../index.html" id="top">Home</a>
+        </span>
+        
+    </div>
+
+    <div>
+        <h4>Sunday Activities</h4>
+        <ol>
+            <!-- <li id="Edu" class="resumeListHeading">Go to Church -->
+            <li>Go to Church</li>
+            <li>Relax</li>
+                <ul>
+                    <li>Sunday Ideas
+                        <ul>
+                            <li>Look at family photo albums or watch home movies.</li>
+                            <li>Work on your family home evening assignment.</li>
+                            <li>Write in your journal.</li>
+                            <li>Enjoy uplifting music.</li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+        </ol>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/AvaaXMzMQYc?si=3vIyhIaI_j465kEO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+
+    <!-- <div class="common leftmenu">
+        <a href="#edu">Education</a><br>
+        <a href="#exp">Experience</a><br>
+        <a href="#ski">Skills</a><br>
+    </div> -->
+
+    <!-- <div class="common mainbody">
+        <p class="justify"> <span class="bold">Mission Statement: </span> Help people and solve crime.</p>
+        <ol>
+            <li id="Edu" class="resumeListHeading">Education
+                <ul>
+                    <li>Pomona College, Claremont, CA
+                        <ul>
+                            <li>B.S. Chemistry</li>
+                            <li>1994-1998</li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+            <li id="exp" class="resumeListHeading">Experience
+                <ul>
+                    <li>Psych: Private Detective Agency, San Francisco, CA - Private Investigator
+                        <ul>
+                            <li> 2007 - PRESENT</li> 
+                        </ul>
+                    </li>
+                    <li> Pharmaceutical,  Santa Barbara, CA  - Sales Representative
+                        <ul>
+                            <li>2002 - 2014</li>
+                        </ul>
+                    </li>                    
+                </ul>
+            </li>
+            <li id="ski" class="resumeListHeading">Skills
+                <ul>
+                    <li>Database Design Development</li>
+                    <li>Entity-Relationship Diagramming</li>
+                    <li>Structured Query Language</li>
+                    <li>Tableau</li>
+                    <li>Excel Solver, Pivot Tables, and Charts</li>
+                    <li>HTML, CSS, Bootstrap</li>
+                    <li>Flow Chart Diagramming</li>
+                    <li>Visual Basic for Applications (VBA) Proramming in Excel</li>
+
+                </ul>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+            </li>
+        </ol>
+        <a href="#top">Scroll to Top</a><br>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+    </div>
+
+    <div class="common rightmenu">
+        <h4>Burton Guster</h4>
+        <br>Pharmaceutical Sales Representative
+        <br>Santa Barbara, CA
+        <p>
+            See my <a href="https://psychusa.fandom.com/wiki/Burton_%22Gus%22_Guster" target="_blank" title="Fan wiki page on Burton Guster">Psych Wiki page.</a>
+        </p>
+    </div>
+
+    <div class="common footer">
+        www.myresume.com | &copy; | Burton Guster
+    </div> -->
+
+
+   
+    
+       
+        
+</body>
+</html>
